@@ -5,10 +5,10 @@
     </td>
     <td width="80%">
       <h1>Hi, I'm Bind Pratap Singh</h1>
-      <h3>Systems Engineer | Distributed Computing Researcher</h3>
+      <h3>Systems Engineer | Cybersecurity & Networks Enthusiast</h3>
       <p>
-        <strong>Core Focus:</strong> Distributed Systems, Network Security, and High-Performance Computing.<br>
-        I prefer building resilient, low-level systems architectures over competitive programming puzzles.
+        <strong>Core Focus:</strong> Systems Architecture, Network Security, and Low-Level Engineering.<br>
+        I prefer building resilient, secure infrastructures over competitive programming puzzles.
       </p>
     </td>
   </tr>
@@ -18,20 +18,20 @@
 
 ### 🔭 Current Research & Engineering
 
-I specialize in **optimizing tail latency** in distributed environments and applying **Reinforcement Learning** to critical infrastructure.
+I specialize in **optimizing system performance** and applying **intelligence** to critical infrastructure.
 
-#### 🚦 [The Route Cause](LINK_TO_REPO) (Smart City Infrastructure)
+#### 🚦 [The Route Cause](https://github.com/bindpratapsingh/The_Route_Cause) (Smart City Infrastructure)
 * **Problem:** Static traffic signals fail to handle surges or emergency vehicles.
 * **Solution:** Engineered a **3-Tier Intelligent Architecture** acting as Eyes (Perception), Brain (Decision), and Supervisor (Guardian).
 * **Tech:** Utilized **YOLOv8** for density detection and a **Q-Learning Agent** for signal timing.
 * **Key Feature:** The "Guardian Layer" enforces safety rules, granting immediate **preemption for emergency vehicles** and preventing starvation.
 
-#### ⚡ [AI-PoT Scheduler](LINK_TO_REPO) (Distributed Systems)
+#### ⚡ [AI-PoT Scheduler](https://github.com/bindpratapsingh/AI-PoT) (Distributed Systems)
 * **Goal:** Reducing **P99 (Tail) Latency** in heterogeneous clusters where classical Power-of-Two choices fail.
 * **Implementation:** Built a simulation using **MPI (OpenMPI)** to model straggler nodes and heavy-tailed "elephant" workloads.
 * **Innovation:** Integrated an O(1) inference **Linear Regression model** to predict task costs, outperforming classic schedulers in high-load scenarios.
 
-#### 📦 [Process Migration Engine](LINK_TO_REPO) (Load Balancing)
+#### 📦 [Process Migration Engine](https://github.com/bindpratapsingh/AI-Assisted-Process-Migration-for-Optimized-Load-Balancing) (Load Balancing)
 * **Metric:** Orchestrated proactive container migrations using **CRIU** and **Docker**.
 * **Result:** Improved load distribution by 25% with predictive ML models.
 
@@ -49,7 +49,7 @@ I specialize in **optimizing tail latency** in distributed environments and appl
 ---
 
 ### ⚡ Performance Stats
-* **Focus:** System Latency, Throughput Optimization, Gridlock Prevention.
+* **Focus:** System Latency, Network Resilience, Gridlock Prevention.
 * **Architecture Style:** Event-Driven, Master-Worker, Multi-Tiered AI.
 
 ---
