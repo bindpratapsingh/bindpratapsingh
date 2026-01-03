@@ -18,7 +18,7 @@
 
 ### 🔭 Current Research & Engineering
 
-I specialize in **optimizing system performance** and applying **intelligence** to critical infrastructure.
+I specialize in **optimizing system performance**, **securing networks**, and applying **intelligence** to critical infrastructure.
 
 #### 🚦 [The Route Cause](https://github.com/bindpratapsingh/The_Route_Cause) (Smart City Infrastructure)
 * **Problem:** Static traffic signals fail to handle surges or emergency vehicles.
@@ -41,8 +41,8 @@ I specialize in **optimizing system performance** and applying **intelligence** 
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
+| **Network & Security** | **Burp Suite**, Socket Programming, TCP/IP, OSI Layers, Security Fundamentals |
 | **Systems Programming** | C, C++, MPI (OpenMPI), Linux/Unix Shell, CRIU |
-| **Network & Security** | Socket Programming, TCP/IP, OSI Layers, Network Security Fundamentals |
 | **AI & Simulation** | YOLOv8, Q-Learning (RL), Scikit-learn, Pandas |
 | **Backend & DevOps** | Python, FastAPI, Docker, Vagrant, WebSockets |
 
