@@ -5,7 +5,7 @@
     </td>
     <td width="80%">
       <h1>Hi, I'm Bind Pratap Singh</h1>
-      <h3>Systems Engineer | Cybersecurity & Networks Enthusiast</h3>
+      <h3> Cybersecurity & Networks Enthusiast</h3>
       <p>
         <strong>Core Focus:</strong> Systems Architecture, Network Security, and Low-Level Engineering.<br>
         I prefer building resilient, secure infrastructures over competitive programming puzzles.
